@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My Custom Table" max_length="40" name="x_58872_needit_my_custom_table" sizeclass="0" type="collection">
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="First Name" max_length="20" name="first_name" type="string"/>
+        <element label="Last Name" max_length="50" name="last_name" type="string"/>
+        <element label="Phone" max_length="40" name="phone" type="phone_number_e164"/>
+    </element>
+</database>
